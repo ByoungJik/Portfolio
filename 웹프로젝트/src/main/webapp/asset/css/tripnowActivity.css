@@ -1,0 +1,203 @@
+/*-----------------------메인 시작-------------------------------------- */
+   .Abar{
+      
+      position: relative;
+      
+      top: 175px;
+   
+   }
+   
+   .Asubtext{
+      margin: auto;
+      width:760px ;
+      height:50px ;
+/*       background-color: yellowgreen;  */
+      
+      position: relative;
+      top: 180px;
+   
+   }
+   
+   .Asubtext > p{
+      
+       font-size: 20px;   
+       color: white; 
+   }
+   
+   .Amaintext{
+      margin: auto;
+      width:760px ;
+      height:100px ;
+      
+/*       background-color: cornflowerblue; */
+      
+      position: relative;
+      top: 150px;
+   }
+   
+   .Amaintext > p{
+      font-size: 60px;
+      color: white;
+   }
+   
+/*-----------------------메인 끝-------------------------------------- */
+   
+/*-----------------------리스트 시작-------------------------------------- */
+      
+     .homelist {
+      margin-top: 30px;
+      padding-right: 10px;
+      border: 1px solid black;
+      float: left;
+      width: 795px;
+      height: 228px;
+   }
+   
+   .money {
+      float: right;
+      font-size: 20px;
+      font-weight: bold;
+   }
+   
+   .btn.btn-primary.booking {
+      float: right;
+      clear: both;
+      margin-bottom: 10px;
+   }
+   
+   .col-md-4 > .thumbnail {
+      width: 250px;
+      height: 226px;
+      border: none;
+   }
+   
+   .NList{
+      
+      position: relative;
+      top: 30px;
+      margin-top:3px;
+      width: 1060px;
+      height:1060px;
+/*       background-color: #999; */
+      
+   }
+   
+   
+   .Act_card{
+      
+      border: 1px solid black;
+      border-radius: 9px;
+      width: 249px;
+      height: 311px;
+      margin-bottom: 16px;   
+      margin-left:8px;
+      margin-right:8px;
+      word-break:break-all;
+      
+      float:left;   
+   }
+   
+   .card-img-top{
+      border-radius: 9px;
+   }
+   
+   .Act_card > div { 
+      
+      margin-left:5px;
+      margin-right:5px;
+    } 
+   
+   .Act_card > .region { 
+   
+      margin-top: 6px;
+/*       background-color:red; */
+      height:20px;
+      position:relative;
+      top:1px;
+    } 
+    
+    .Act_card > .name { 
+/*       background-color:yellow; */
+      height:55px;
+      position:relative;
+      top:5px;
+    } 
+    
+    .name > p{
+       
+       font-size: 1.3em;
+       font-weight: 600;
+    
+    }
+    
+    
+    
+    
+    .Act_card > .star { 
+/*       background-color:green; */
+      position:relative;
+      top:15px;
+      height: 30px;
+      font-size: 1.2em;
+    } 
+    
+    .star > p > span {
+       color: #60c1f0;
+       
+    }
+    
+      
+    
+    
+    .Act_card > .price { 
+/*       background-color:#999;  */
+      position:relative;
+      top:4px;
+      margin-bottom: 10px;
+      
+    } 
+    
+    .Act_card > .price > p { 
+      float: bottom;
+      font-size: 1.3em;
+      
+      
+    } 
+    
+   .price > p > span{
+      font-size: 0.9em;
+   }
+    
+
+   .card-img-top{
+      width: 247px;
+      height: 165px;
+   }
+   
+   .main{
+      width: 1100px;
+      height:1100px;
+      
+   }
+   
+   .ALbar{
+      position:relative;
+      top:14px;
+   }   
+   
+   .Afootter{
+      margin-top:35px;
+   }
+   
+   .region > p{
+      font-size: 13px;
+   }
+   
+      
+      
+/*-----------------------리스트 끝-------------------------------------- */
+   
+   
+   
+      
+   
